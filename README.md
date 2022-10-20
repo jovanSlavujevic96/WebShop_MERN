@@ -1,6 +1,6 @@
 ## Digital Home eShop
 
-#### by <b>Katarina Ninkovic</b>
+#### by: <b>Jovan Slavujevic</b> & <b>Katarina Ninkovic</b>
 
 ### Useful links:
 
